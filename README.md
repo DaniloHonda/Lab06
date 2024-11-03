@@ -1,5 +1,10 @@
 # Laboratório 06 - Implementação de Listas Encadeadas com Alocação Dinâmica de Memória
+---
+Danilo Yui Honda - 10419625
 
+Raphael Grizante da Silva - 10416979
+
+---
 Este laboratório tem como objetivo exemplificar o uso da alocação dinâmica de memória em sistemas operacionais através da implementação de listas encadeadas como estrutura de dados.
 
 ## Descrição da Estrutura de Dados
